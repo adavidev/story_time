@@ -5,5 +5,5 @@ source "https://rubygems.org"
 gemspec
 
 # gem "rails"
-gem 'verbs', path: "../"
+gem 'verbs', git: "git@github.com:adavidev/verbs.git"
 gem 'engtagger'
